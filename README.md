@@ -31,6 +31,7 @@ Total cost: **91.52**
 [sherpa-micro]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder
 [sherpa-front-housing-stl]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/blob/main/STLs/%5Ba%5D_housing_front_x1_rev2.STL
 [sherpa-idler-arm-stl]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/blob/main/STLs/%5Ba%5D_idler_arm_long_x1_rev2.STL
+[sherpa-housing-core-stl]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/blob/main/STLs/housing_core_x1_rev2.STL
 [sherpa-housing-rear-stl]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/blob/main/STLs/housing_rear_x1_rev2.STL
 [prusament-asa]: https://www.prusa3d.com/category/prusament-asa
 [ratrig-settings]: https://v-core.ratrig.com/printed_parts/#recommended-print-settings
