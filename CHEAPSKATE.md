@@ -54,5 +54,16 @@ save some money getting clear PTFE instead.
 
 ## Hotend
 
-No savings to be had here unfortunately. This is _already_ the cost-effective
-option!
+While West3D's Undertaker is a fantastic nozzle, it's also fantastically
+expensive, especially when shipping is factored in. The TD6S kit from
+Trianglelab used in the build comes with a brass nozzle, which is perfectly
+serviceable if you don't plan on printing anything fancy. Additionally, the
+build fits V6-style nozzles, which can be had for various kinds of cheap.
+
+Some advice regarding nozzles:
+
+* Avoid nozzles with inserts. These have a habit of falling out, rendering your
+  nozzle useless in the process.
+* Don't bother with hardened steel nozzles. Even with the ceramic heater core
+  used by the TD6S, these have bad thermal performance, and thus require pushing
+  much higher temperatures to get the same effect.
