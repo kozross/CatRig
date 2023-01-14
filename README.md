@@ -27,7 +27,7 @@ they're on Aliexpress.
 
 ### Extruder
 
-CatRig uses a [Sherpa Micro][sherpa-micro]. 
+CatRig uses a [Sherpa Micro][sherpa-micro].
 
 | Part name | Origin | Number required | Printed? | Cost per unit |
 |---|---|---|---|---|
@@ -46,6 +46,22 @@ CatRig uses a [Sherpa Micro][sherpa-micro].
 
 Total: **97.68**
 
+### Hotend
+
+CatRig uses a TD6S from Trianglelabs. Since it's almost a Rapido, we re-use the
+Rapido EVA mount; that way, we get a rigid mount as well.
+
+| Part name | Origin | Number required | Printed? | Cost per unit |
+|---|---|---|---|---|
+| TD6S Model A 24V without adapter | [Trianglelab][td6-model-a-tl] | 1 | No | 69.98 | 
+| Undertaker V6 nozzle 0.4mm | [West3D][undertaker-west3d] | 1 | No | 74.00 |
+| M2.5 x 8mm DIN 912 screw | [Liya][din912-liya] | 4 | No | 0.05 |
+| M3 x D4.6 x L4.0 brass insert | [HotXYZ][hotxyz-insert] | 8 | No | 0.09 |
+| 4010 dual-ball 24V DC fan | [Gdstime][4010-fan-gdstime] | 1 | No | 26.48 |
+| M3 x 20mm DIN 912 screw | [Liya][din912-liya] | 4 | No | 0.10 |
+| M3 x 6mm DIN 912 screw | [Liya][din912-liya] | 4 | No | 0.07 |
+| PTFE tube OD 4mm ID 2mm, 30mm | [Mellow][ptfe-clear-mellow] | 1 | No | 0.10 |
+
 [ratrig]: https://v-core.ratrig.com/
 [drive-gears-tl]: https://www.aliexpress.com/item/1005003156582431.html
 [nema-14-8t-mellow]: https://www.aliexpress.com/item/1005005124486943.html
@@ -62,3 +78,8 @@ Total: **97.68**
 [ptfe-mellow]: https://www.aliexpress.com/item/1005001370675514.html
 [prusament-asa-sapphire-blue]: https://www.prusa3d.com/product/prusament-asa-sapphire-blue-850g
 [prusament-asa-galaxy-black]: https://www.prusa3d.com/product/prusament-asa-prusa-galaxy-black-850g/
+[td6-model-a-tl]: https://www.aliexpress.com/item/1005004704341801.html
+[undertaker-west3d]: https://west3d.com/products/west3ds-undertaker-tungsten-carbide-nozzle?variant=42290761334996
+[din912-liya]: https://www.aliexpress.com/item/32810872544.html
+[4010-fan-gdstime]: https://www.aliexpress.com/item/32726644469.html
+[ptfe-clear-mellow]: https://www.aliexpress.com/item/32970391631.html
