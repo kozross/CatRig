@@ -6,23 +6,30 @@ My build documentation for a [RatRig V-Core 3.1][ratrig].
 
 ## Part lists
 
-Printed part costs assume use of  [Prusament ASA][prusament-asa] on the RatRig
-[recommended settings][ratrig-settings]. Costs are per part (thus, not taking
-required number into account); if a linked part is bulk, that quantity is
-assumed (so a 50-screw link will divide the cost by 50).
+Prices are in NZD, and assume no sale is currently on. All costs are per-part:
+thus, the cost is multiplied by the number required. If something comes in
+larger volumes than listed, the cost is per-part: for example, for screws that
+come in packs of 10, the listed price will be one-tenth of the pack price.
+
+Printed part costs assume use of [Prusament ASA][prusament-asa] with the RatRig
+[recommended settings][ratrig-settings]. We will use two colours: a primary
+colour (in my case, [Sapphire Blue][prusament-asa-sapphire-blue]) and an accent
+colour (in my case, [Galaxy Black][prusament-asa-galaxy-black]). Printed part
+listings will indicate which colour you need for it.
 
 ## Sources
 
-Priority is given to Aliexpress, as sourcing anything from basically anywhere
-else in New Zealand is a lost cause due to shipping. Some suppliers are given
-preference, due to both personal and community experience. However, for any
-community designs, preference is given to their suppliers if Aliexpress.
+Everything here assumes someone building in New Zealand: in other areas, you
+might have better options. Thus, Aliexpress sellers make a frequent appearance.
+Some of these sellers are due to a good reputation in the community or good
+personal experiences; we also use recommended suppliers for components if
+they're on Aliexpress.
 
 ### Extruder
 
 CatRig uses a [Sherpa Micro][sherpa-micro]. 
 
-| Part name | Origin | Number required | Printed? | Cost (NZD, no sale) |
+| Part name | Origin | Number required | Printed? | Cost per unit |
 |---|---|---|---|---|
 | Drive gears | [Trianglelab][drive-gears-tl] | 1 | No | 52.58 |
 | NEMA14 8-tooth motor 17mm | [Mellow][nema-14-8t-mellow] | 1 | No | 38.94 |
@@ -35,9 +42,9 @@ CatRig uses a [Sherpa Micro][sherpa-micro].
 | M3 x 8mm button socket head cap screw | [Liya][liya-m3-bsh] | 2 | No | 0.06 |
 | 7mm OD x 5mm ID x 0.5mm steel washer | [Liya][liya-washer] | 1 | No | 0.05 |
 | M3 x D5.0 x L4.0 brass insert | [HotXYZ][hotxyz-insert] | 4 | No | 0.13 |
-| PTFE tube OD 4mm ID 2mm, 3m | [Mellow][ptfe-mellow] | 1 | No | 13.25 |
+| PTFE tube OD 4mm ID 2mm, 1m | [Mellow][ptfe-mellow] | 1 | No | 4.71 |
 
-Total: **106.22**
+Total: **97.68**
 
 [ratrig]: https://v-core.ratrig.com/
 [drive-gears-tl]: https://www.aliexpress.com/item/1005003156582431.html
@@ -53,3 +60,5 @@ Total: **106.22**
 [liya-washer]: https://www.aliexpress.com/item/4000316011573.html
 [hotxyz-insert]: https://www.aliexpress.com/item/4000232858343.html
 [ptfe-mellow]: https://www.aliexpress.com/item/1005001370675514.html
+[prusament-asa-sapphire-blue]: https://www.prusa3d.com/product/prusament-asa-sapphire-blue-850g
+[prusament-asa-galaxy-black]: https://www.prusa3d.com/product/prusament-asa-prusa-galaxy-black-850g/
