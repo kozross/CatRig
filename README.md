@@ -61,6 +61,9 @@ Rapido EVA mount; that way, we get a rigid mount as well.
 | M3 x 20mm DIN 912 screw | [Liya][din912-liya] | 4 | No | 0.10 |
 | M3 x 6mm DIN 912 screw | [Liya][din912-liya] | 4 | No | 0.07 |
 | PTFE tube OD 4mm ID 2mm, 30mm | [Mellow][ptfe-clear-mellow] | 1 | No | 0.10 |
+| `hotend-rapido-fi` | [EVA][hotend-rapido-fi-eva] | 1 | Primary | 0.76 |
+
+Total: **172.92**
 
 [ratrig]: https://v-core.ratrig.com/
 [drive-gears-tl]: https://www.aliexpress.com/item/1005003156582431.html
@@ -83,3 +86,4 @@ Rapido EVA mount; that way, we get a rigid mount as well.
 [din912-liya]: https://www.aliexpress.com/item/32810872544.html
 [4010-fan-gdstime]: https://www.aliexpress.com/item/32726644469.html
 [ptfe-clear-mellow]: https://www.aliexpress.com/item/32970391631.html
+[hotend-rapido-fi-eva]: https://main.eva-3d.page/stls/heat_insert/hotend/rapido/hotend_rapido_fi.stl
