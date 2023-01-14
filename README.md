@@ -18,12 +18,12 @@ CatRig uses a [Sherpa Micro][sherpa-micro]
 |---|---|---|---|---|
 | Drive gears | [Trianglelab][drive-gears-tl] | 1 | No | 52.58 |
 | NEMA14 8-tooth motor 17mm | [Mellow][nema-14-8t-mellow] | 1 | No | 38.94 |
-| Front housing | [Annex Engineering][sherpa-front-housing-stl] | 1 | Accent | ??? |
-| Idler arm | [Annex Engineering][sherpa-idler-arm-stl] | 1 | Accent | ??? |
-| Housing core | [Annex Engineering][sherpa-housing-core-stl] | 1 | Primary | ??? |
-| Housing rear | [Annex Engineering][sherpa-housing-rear-stl] | 1 | Primary | ??? |
+| Front housing | [Annex Engineering][sherpa-front-housing-stl] | 1 | Accent | 0.05 |
+| Idler arm | [Annex Engineering][sherpa-idler-arm-stl] | 1 | Accent | 0.11 |
+| Housing core | [Annex Engineering][sherpa-housing-core-stl] | 1 | Primary | 0.27 |
+| Housing rear | [Annex Engineering][sherpa-housing-rear-stl] | 1 | Primary | 0.10 |
 
-Total cost: **91.52**
+Total cost: **92.05**
 
 [ratrig]: https://v-core.ratrig.com/
 [drive-gears-tl]: https://www.aliexpress.com/item/1005003156582431.html
