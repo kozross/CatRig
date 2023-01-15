@@ -9,3 +9,5 @@ for builders of such printers in New Zealand.
 ## Where's all the useful information?
 
 You probably want the [wiki](https://github.com/kozross/CatRig/wiki).
+
+[ratrig]: https://v-core.ratrig.com/
