@@ -2,7 +2,13 @@
 
 ## What is this?
 
-My build documentation for a [RatRig V-Core 3.1][ratrig].
+My build documentation for a [RatRig V-Core 3.1][ratrig], with 300 x 300 build
+volume. I'm also noting down things I've learned, and just useful information
+for builders of such printers in New Zealand.
+
+## Where's all the useful information?
+
+You probably want the [wiki](https://github.com/kozross/CatRig/wiki).
 
 ## Part lists
 
@@ -24,27 +30,6 @@ might have better options. Thus, Aliexpress sellers make a frequent appearance.
 Some of these sellers are due to a good reputation in the community or good
 personal experiences; we also use recommended suppliers for components if
 they're on Aliexpress.
-
-### Extruder
-
-CatRig uses a [Sherpa Micro][sherpa-micro].
-
-| Part name | Origin | Number required | Printed? | Cost per unit |
-|---|---|---|---|---|
-| Drive gears | [Trianglelab][drive-gears-tl] | 1 | No | 52.58 |
-| NEMA14 8-tooth motor 17mm | [Mellow][nema-14-8t-mellow] | 1 | No | 38.94 |
-| Front housing | [Annex Engineering][sherpa-front-housing-stl] | 1 | Accent | 0.05 |
-| Idler arm | [Annex Engineering][sherpa-idler-arm-stl] | 1 | Accent | 0.11 |
-| Housing core | [Annex Engineering][sherpa-housing-core-stl] | 1 | Primary | 0.27 |
-| Housing rear | [Annex Engineering][sherpa-housing-rear-stl] | 1 | Primary | 0.10 |
-| M3 x 20mm button socket head cap screw | [Liya][liya-m3-bsh] | 1 | No | 0.10 |
-| M3 x 16mm button socket head cap screw | [Liya][liya-m3-bsh] | 2 | No | 0.09 |
-| M3 x 8mm button socket head cap screw | [Liya][liya-m3-bsh] | 2 | No | 0.06 |
-| 7mm OD x 5mm ID x 0.5mm steel washer | [Liya][liya-washer] | 1 | No | 0.05 |
-| M3 x D5.0 x L4.0 brass insert | [HotXYZ][hotxyz-insert] | 4 | No | 0.13 |
-| PTFE tube OD 4mm ID 2mm, 1m | [Mellow][ptfe-mellow] | 1 | No | 4.71 |
-
-Total: **97.68**
 
 ### Hotend
 
